@@ -4,7 +4,7 @@ export function Header() {
   return (
     <header className="header">
       <div>
-        <img src="logo.png" alt="to.do"/>
+        <img src="https://github.com/DevClaudioFilho/to.doo/blob/main/public/logo.png?raw=true" alt="to.do"/>
       </div>
     </header>
   )
